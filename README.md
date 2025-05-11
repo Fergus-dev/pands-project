@@ -24,8 +24,41 @@ You will need to have Python installed on your machine in order to run the scrip
   - How to install VS Code
 
 ## Summary of the my investigations into the Iris dataset
+In analysis.ipynb and analysis.py, I take a number of key steps:
+  - Dataset loading and preparation
+  - Calculating summary statistics
+  - Creating histograms for each variable
+  - Creating scatter plots for each variable pair
 
+  - Dataset loading and prep
+    - Imported the Iris dataset from a ‘.data’ file into a Pandas DataFrame.
+    - Assigned column names: ‘sepal_length’, ‘sepal_width’, ‘petal_length’, ‘petal_width’, and ‘species’.
+  
+  - Calculating summary statistics
+    - Calculated and saved key summary statistics for each numeric variable:
+      - Mean
+      - Median
+      - Mode
+      - Standard deviation
+      - Variance
+      - Range
+    - Wrote these results to a text file, ‘summary.txt’.
 
+  - Creating histograms for each variable
+    - Plotted histograms for each numeric variable to visualize their distributions
+    - Combined all histograms into a single figure and saved it as ‘iris_histograms.png’
 
+  - Creating scatter plots for each variable pair
+    - Used scatter plots to visualize relationships between all pairs of numeric variables, with points color-coded by species
+    - Saved the scatter plots as ‘iris_scatter_plots.png’
 
+## Key findings
+  - Summary statistics
+  - TBC
+  - Variable Distributions
+    - Some variables exhibited more variability (e.g., ‘petal_length’), while others were more narrowly distributed.
+  - Relationships Between Variables
+    - Scatter plots revealed clear patterns and separations between species:
+      - For example, ‘petal_length’ and ‘petal_width’ showed strong clustering by species.
+      - Other pairs like ‘sepal_length’ vs. ‘sepal_width’ displayed weaker separations.
 
