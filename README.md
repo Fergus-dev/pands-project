@@ -18,7 +18,7 @@ You can follow my investigations into the Iris dataset to help yourself learn th
   - Python Script: analysis.py
   - Iris dataset: iris.data
 
-You will need to have Python installed on your machine in order to run the script, and I reccomend also installing VS Code in order to follow along with each stage of the coding process, as it is much more informative and easy to read due to the markdown cells that I have included in it.
+If you would prefer to just run the script as a whole, then open up analysis.py on your machine (once Python is installed) and run it. You may need to [pip install](https://python.land/virtual-environments/installing-packages-with-pip) the packages I use in the script before hand, however. You can find a full list in the references section below. If you'd rather more explanation and to follow the step by step process, then use the analysis_notebook.ipynb file. I reccomend installing VS Code for this approach, in order to follow along with each stage of the coding process, as it is much more informative and easy to read due to the markdown cells that I have included in it.
 
   - [How to install Python](https://www.python.org/downloads/)
   - [How to install VS Code](https://code.visualstudio.com/docs/setup/windows)
@@ -74,5 +74,13 @@ In analysis.ipynb and analysis.py, I take a number of key steps:
 - [Python itertools Combinations](https://docs.python.org/3/library/itertools.html#itertools.combinations)
 - [W3Schools on Python's enumerate() Function](https://www.w3schools.com/python/ref_func_enumerate.asp)
 - [W3Schools on Python's map() Function](https://www.w3schools.com/python/ref_func_map.asp)
+
+## Libraries and packages used
+[pandas](https://pandas.pydata.org/)
+[numpy](https://numpy.org/)
+[stats from scipy](https://docs.scipy.org/doc/scipy/reference/stats.html)
+[os](https://docs.python.org/3/library/os.html)
+[matplotlib.pyplot](https://matplotlib.org/stable/api/pyplot_summary.html)
+[combinations from itertools](https://www.geeksforgeeks.org/python-itertools-combinations-function/)
 
 
