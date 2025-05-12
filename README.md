@@ -17,6 +17,7 @@ You can follow my investigations into the Iris dataset to help yourself learn th
   - Jupyter Notebook: analysis_notebook.ipynb
   - Python Script: analysis.py
   - Iris dataset: iris.data
+    - The iris zip folder contains the iris data set file, and some extra information you might find useful on the iris dataset itself. This isn't necessary to follow along with this project, but if you'd like, you can download the zip folder and get access to both the necessary dataset and the extra info.
 
 If you would prefer to just run the script as a whole, then open up analysis.py on your machine (once Python is installed) and run it. You may need to [pip install](https://python.land/virtual-environments/installing-packages-with-pip) the packages I use in the script before hand, however. You can find a full list in the references section below. If you'd rather more explanation and to follow the step by step process, then use the analysis_notebook.ipynb file. I reccomend installing VS Code for this approach, in order to follow along with each stage of the coding process, as it is much more informative and easy to read due to the markdown cells that I have included in it.
 
