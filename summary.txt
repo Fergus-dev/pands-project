@@ -1,4 +1,4 @@
-**Summary statistics for sepal_length:**
+Summary statistics for sepal_length:
 Mean: 5.843333333333334
 Median: 5.8
 Mode: ModeResult(mode=5.0, count=10)
@@ -6,7 +6,7 @@ Standard Deviation: 0.8280661279778629
 Range: 3.6000000000000005
 Variance: 0.6856935123042505
 
-**Summary statistics for sepal_width:**
+Summary statistics for sepal_width:
 Mean: 3.0540000000000003
 Median: 3.0
 Mode: ModeResult(mode=3.0, count=26)
@@ -14,7 +14,7 @@ Standard Deviation: 0.4335943113621737
 Range: 2.4000000000000004
 Variance: 0.18800402684563763
 
-**Summary statistics for petal_length:**
+Summary statistics for petal_length:
 Mean: 3.758666666666666
 Median: 4.35
 Mode: ModeResult(mode=1.5, count=14)
@@ -22,7 +22,7 @@ Standard Deviation: 1.7644204199522617
 Range: 5.9
 Variance: 3.1131794183445156
 
-**Summary statistics for petal_width:**
+Summary statistics for petal_width:
 Mean: 1.1986666666666668
 Median: 1.3
 Mode: ModeResult(mode=0.2, count=28)
