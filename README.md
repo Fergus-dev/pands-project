@@ -71,7 +71,7 @@ In analysis.ipynb and analysis.py, I take a number of key steps:
 - [Writing to Files in Python](https://www.geeksforgeeks.org/writing-to-file-in-python/)
 - [SciPy Documentation on Mode Calculation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mode.html)
 - [Matplotlib Plotting Library](https://matplotlib.org/stable/api/pyplot_summary.html)
-- Python for Data Analysis by Wes McKinney (pages …)
+- Python for Data Analysis by Wes McKinney (pages 283 - 286)
 - [Python itertools Combinations](https://docs.python.org/3/library/itertools.html#itertools.combinations)
 - [W3Schools on Python's enumerate() Function](https://www.w3schools.com/python/ref_func_enumerate.asp)
 - [W3Schools on Python's map() Function](https://www.w3schools.com/python/ref_func_map.asp)
