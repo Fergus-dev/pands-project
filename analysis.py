@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 from itertools import combinations
 
 # using the Pandas library's read_csv function to read the iris.data file into a Pandas DataFrame
-# I have stored the iris.data file in the current working directory, so I use the os module to change to that directory
+# I have stored the iris.data file in a specific folder, so I use the os module to change to that directory
 os.chdir('C:/Users/fmtie/OneDrive/Desktop/pands/pands-project')
 # now I can easily call the iris.data file by its name rather than specifying the entire path
-# As mentioned above, I don't specify the delimiter, and the function will automatically take it that it is a comma
-# I also specify the column names that I want to use for the DataFrame by using the name argument
+
+# I use Pandas read_csv() function to load the iris dataset into a Pandas Dataframe, specifying the column names that I want to use for the DataFrame by using the name argument
 # The feature names 'sepal_length', 'sepal_width', 'petal_length', 'petal_width', and the fifth column is a categoriacal value corresponding to the species of iris flower
 # I was able to find the column names in the iris.names file, which is contained in the same zip foler as the iris.data file
 
