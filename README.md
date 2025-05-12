@@ -55,7 +55,6 @@ In analysis.ipynb and analysis.py, I take a number of key steps:
 ## Key findings
   - Summary statistics
     - The summary statistics generated show that sepal measurements show the least variation, while petal measurements show much more range and variability
-    - They also show that the setosa species has distinctly smaller petal values
   - Variable Distributions
     - Some variables exhibited more variability (e.g., ‘petal_length’), while others were more narrowly distributed.
   - Relationships Between Variables
