@@ -63,3 +63,17 @@ In analysis.ipynb and analysis.py, I take a number of key steps:
       - For example, ‘petal_length’ and ‘petal_width’ showed strong clustering by species.
       - Other pairs like ‘sepal_length’ vs. ‘sepal_width’ displayed weaker separations.
 
+## References
+- [Advantages of Python Pandas](https://data-flair.training/blogs/advantages-of-python-pandas/)
+- [Determining Delimiters in Data Files](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
+- [A Gentle Introduction to Summarizing Data](https://openelectiondata.net/en/academy/a-gentle-introduction-to-summarizing-data/)
+- [Stack Overflow Discussion on Summarizing Data](https://stackoverflow.com/questions/43160381/printing-summary-of-results-in-python)
+- [Writing to Files in Python](https://www.geeksforgeeks.org/writing-to-file-in-python/)
+- [SciPy Documentation on Mode Calculation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mode.html)
+- [Matplotlib Plotting Library](https://matplotlib.org/stable/api/pyplot_summary.html)
+- Python for Data Analysis by Wes McKinney (pages …)
+- [Python itertools Combinations](https://docs.python.org/3/library/itertools.html#itertools.combinations)
+- [W3Schools on Python's enumerate() Function](https://www.w3schools.com/python/ref_func_enumerate.asp)
+- [W3Schools on Python's map() Function](https://www.w3schools.com/python/ref_func_map.asp)
+
+
